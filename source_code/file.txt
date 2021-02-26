@@ -1,0 +1,1 @@
+./usr/share/doc/xserver-xorg-video-intel/xorg.conf
